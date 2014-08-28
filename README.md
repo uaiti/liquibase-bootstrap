@@ -1,4 +1,4 @@
-# Liquibase-bootstra - Um projeto de base para iniciar a utilização do Liquibase
+# Liquibase-bootstrap - Um projeto de base para iniciar a utilização do Liquibase
 
 Este é um projeto que auxiliar a começar a utilizar o Liquibase.
 
